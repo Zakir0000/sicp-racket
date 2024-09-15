@@ -1,6 +1,6 @@
 # sicp-racket
 
-[![github action status](https://github.com/hexlet-boilerplates/sicp-racket/workflows/Racket%20CI/badge.svg)](https://github.com/hexlet-boilerplates/sicp-racket/actions)
+[![github action status](https://github.com/Zakir0000/sicp-racket/workflows/Racket%20CI/badge.svg)](https://github.com/Zakir/sicp-racket/actions)
 
 ### Requirements
 
